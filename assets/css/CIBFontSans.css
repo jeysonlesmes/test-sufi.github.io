@@ -1,0 +1,129 @@
+@font-face {
+  font-family: "CIBFont Sans";
+  src: url("../fonts/CIBFontSans/CIBFontSans-Bold.eot");
+  src: url("../fonts/CIBFontSans/CIBFontSans-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/CIBFontSans/CIBFontSans-Bold.woff2") format("woff2"),
+    url("../fonts/CIBFontSans/CIBFontSans-Bold.woff") format("woff"),
+    url("../fonts/CIBFontSans/CIBFontSans-Bold.ttf") format("truetype"),
+    url("../fonts/CIBFontSans/CIBFontSans-Bold.svg#CIBFontSans-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CIBFont Sans Book";
+  src: url("../fonts/CIBFontSans/CIBFontSans-Book.eot");
+  src: url("../fonts/CIBFontSans/CIBFontSans-Book.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/CIBFontSans/CIBFontSans-Book.woff2") format("woff2"),
+    url("../fonts/CIBFontSans/CIBFontSans-Book.woff") format("woff"),
+    url("../fonts/CIBFontSans/CIBFontSans-Book.ttf") format("truetype"),
+    url("../fonts/CIBFontSans/CIBFontSans-Book.svg#CIBFontSans-Book") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CIBFont Sans";
+  src: url("../fonts/CIBFontSans/CIBFontSans-BoldItalic.eot");
+  src: url("../fonts/CIBFontSans/CIBFontSans-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/CIBFontSans/CIBFontSans-BoldItalic.woff2") format("woff2"),
+    url("../fonts/CIBFontSans/CIBFontSans-BoldItalic.woff") format("woff"),
+    url("../fonts/CIBFontSans/CIBFontSans-BoldItalic.ttf") format("truetype"),
+    url("../fonts/CIBFontSans/CIBFontSans-BoldItalic.svg#CIBFontSans-BoldItalic") format("svg");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CIBFont Sans";
+  src: url("../fonts/CIBFontSans/CIBFontSans-Light.eot");
+  src: url("../fonts/CIBFontSans/CIBFontSans-Light.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/CIBFontSans/CIBFontSans-Light.woff2") format("woff2"),
+    url("../fonts/CIBFontSans/CIBFontSans-Light.woff") format("woff"),
+    url("../fonts/CIBFontSans/CIBFontSans-Light.ttf") format("truetype"),
+    url("../fonts/CIBFontSans/CIBFontSans-Light.svg#CIBFontSans-Light") format("svg");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CIBFont Sans Book";
+  src: url("../fonts/CIBFontSans/CIBFontSans-BookItalic.eot");
+  src: url("../fonts/CIBFontSans/CIBFontSans-BookItalic.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/CIBFontSans/CIBFontSans-BookItalic.woff2") format("woff2"),
+    url("../fonts/CIBFontSans/CIBFontSans-BookItalic.woff") format("woff"),
+    url("../fonts/CIBFontSans/CIBFontSans-BookItalic.ttf") format("truetype"),
+    url("../fonts/CIBFontSans/CIBFontSans-BookItalic.svg#CIBFontSans-BookItalic") format("svg");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CIBFont Sans";
+  src: url("../fonts/CIBFontSans/CIBFontSans-Italic.eot");
+  src: url("../fonts/CIBFontSans/CIBFontSans-Italic.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/CIBFontSans/CIBFontSans-Italic.woff2") format("woff2"),
+    url("../fonts/CIBFontSans/CIBFontSans-Italic.woff") format("woff"),
+    url("../fonts/CIBFontSans/CIBFontSans-Italic.ttf") format("truetype"),
+    url("../fonts/CIBFontSans/CIBFontSans-Italic.svg#CIBFontSans-Italic") format("svg");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CIBFont Sans";
+  src: url("../fonts/CIBFontSans/CIBFontSans-LightItalic.eot");
+  src: url("../fonts/CIBFontSans/CIBFontSans-LightItalic.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/CIBFontSans/CIBFontSans-LightItalic.woff2") format("woff2"),
+    url("../fonts/CIBFontSans/CIBFontSans-LightItalic.woff") format("woff"),
+    url("../fonts/CIBFontSans/CIBFontSans-LightItalic.ttf") format("truetype"),
+    url("../fonts/CIBFontSans/CIBFontSans-LightItalic.svg#CIBFontSans-LightItalic") format("svg");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CIBFont Sans";
+  src: url("../fonts/CIBFontSans/CIBFontSans-Thin.eot");
+  src: url("../fonts/CIBFontSans/CIBFontSans-Thin.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/CIBFontSans/CIBFontSans-Thin.woff2") format("woff2"),
+    url("../fonts/CIBFontSans/CIBFontSans-Thin.woff") format("woff"),
+    url("../fonts/CIBFontSans/CIBFontSans-Thin.ttf") format("truetype"),
+    url("../fonts/CIBFontSans/CIBFontSans-Thin.svg#CIBFontSans-Thin") format("svg");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CIBFont Sans";
+  src: url("../fonts/CIBFontSans/CIBFontSans-Regular.eot");
+  src: url("../fonts/CIBFontSans/CIBFontSans-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/CIBFontSans/CIBFontSans-Regular.woff2") format("woff2"),
+    url("../fonts/CIBFontSans/CIBFontSans-Regular.woff") format("woff"),
+    url("../fonts/CIBFontSans/CIBFontSans-Regular.ttf") format("truetype"),
+    url("../fonts/CIBFontSans/CIBFontSans-Regular.svg#CIBFontSans-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CIBFont Sans";
+  src: url("../fonts/CIBFontSans/CIBFontSans-ThinItalic.eot");
+  src: url("../fonts/CIBFontSans/CIBFontSans-ThinItalic.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/CIBFontSans/CIBFontSans-ThinItalic.woff2") format("woff2"),
+    url("../fonts/CIBFontSans/CIBFontSans-ThinItalic.woff") format("woff"),
+    url("../fonts/CIBFontSans/CIBFontSans-ThinItalic.ttf") format("truetype"),
+    url("../fonts/CIBFontSans/CIBFontSans-ThinItalic.svg#CIBFontSans-ThinItalic") format("svg");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
